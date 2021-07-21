@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "e1ZyC7k1lN0Z",
+    "database": "ChoosePlans",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}

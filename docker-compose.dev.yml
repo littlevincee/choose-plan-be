@@ -1,0 +1,13 @@
+version: "3.5"
+
+services:
+  mysql:
+    image: mysql
+    restart: unless-stopped
+    ports:
+      - 3306:3306
+    environment:
+      MYSQL_DATABASE: ChoosePlans
+      MYSQL_ROOT_PASSWORD: e1ZyC7k1lN0Z
+
+
